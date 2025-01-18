@@ -34,6 +34,13 @@
   <br>
   <img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dlib-113F8C?style=for-the-badge&logo=dlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ImageAI-FF5733?style=for-the-badge&logo=imageai&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-YOLO-FF6347?style=for-the-badge&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Detectron2-00BFFF?style=for-the-badge&logo=detectron2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MediaPipe-00A99D?style=for-the-badge&logo=mediapipe&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <br>
@@ -42,6 +49,7 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
 </p>
+
 
 
 
